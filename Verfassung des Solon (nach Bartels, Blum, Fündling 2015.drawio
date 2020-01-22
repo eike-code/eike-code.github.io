@@ -1,14 +1,14 @@
-<mxfile host="www.draw.io" modified="2020-01-22T11:30:28.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="c_1rh3Wn3sN2ZdjnAJ3V" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-22T11:36:40.854Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="_9cs7grR8-BfFKTM21HC" version="12.5.5" type="github">
   <diagram id="fYNWbl5dEz6fdRQuFGcw" name="Page-1">
-    <mxGraphModel dx="5240" dy="2893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="cardo^https://fonts.googleapis.com/css?family=cardo">
+    <mxGraphModel dx="542" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="cardo^https://fonts.googleapis.com/css?family=cardo">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="aebSaCIA7CeMU3WzUP2l-10" value="Volksversammlung" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Volksversammlung&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="600" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="aebSaCIA7CeMU3WzUP2l-11" value="Gerichtshöfe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
-          <mxGeometry x="40" y="260" width="120" height="60" as="geometry"/>
+          <mxGeometry x="40" y="250" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="aebSaCIA7CeMU3WzUP2l-12" value="Archonten" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="120" height="40" as="geometry"/>
@@ -28,8 +28,8 @@
             <mxPoint x="240" y="200" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aebSaCIA7CeMU3WzUP2l-20" value="&lt;div&gt;Wahl&lt;/div&gt;&lt;div&gt;(aus der Klass 1)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=cardo;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="60" height="20" as="geometry"/>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-20" value="&lt;div&gt;Wahl&lt;/div&gt;&lt;div&gt;(aus der Klasse 1)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="321" y="190" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="aebSaCIA7CeMU3WzUP2l-23" value="hohe Beamte" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="120" height="40" as="geometry"/>
@@ -39,6 +39,66 @@
         </mxCell>
         <mxCell id="aebSaCIA7CeMU3WzUP2l-25" value="Rat der 400 (?)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
           <mxGeometry x="680" y="160" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-31" value="&lt;div align=&quot;left&quot;&gt;1. Klasse&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Fünfhundert-&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;scheffler&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-32" value="1. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="201" y="460" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-33" value="2. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="201" y="500" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-34" value="3. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="201" y="540" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-35" value="4. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="201" y="580" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-36" value="&lt;div&gt;2. Klasse&lt;/div&gt;&lt;div&gt;Ritter&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-37" value="1. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="321" y="460" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-38" value="2. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="321" y="500" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-39" value="3. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="321" y="540" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-40" value="4. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="321" y="580" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-41" value="3. Klasse&lt;div&gt;Zeugiten&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;align=left;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-42" value="1. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="441" y="460" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-43" value="2. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="441" y="500" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-44" value="3. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="441" y="540" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-45" value="4. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="441" y="580" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-46" value="&lt;div&gt;4. Klasse&lt;/div&gt;&lt;div&gt;Theten&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;align=left;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-47" value="1. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="561" y="460" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-48" value="2. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="561" y="500" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-49" value="3. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="561" y="540" width="79" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-50" value="4. Phyle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="561" y="580" width="79" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
