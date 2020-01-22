@@ -1,1 +1,46 @@
-<mxfile host="www.draw.io" modified="2020-01-22T11:20:58.676Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" version="12.5.5" etag="Qhy4NSeW_FKn9hsH2wnG" type="github"><diagram id="fYNWbl5dEz6fdRQuFGcw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-22T11:30:28.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="c_1rh3Wn3sN2ZdjnAJ3V" version="12.5.5" type="github">
+  <diagram id="fYNWbl5dEz6fdRQuFGcw" name="Page-1">
+    <mxGraphModel dx="5240" dy="2893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="cardo^https://fonts.googleapis.com/css?family=cardo">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-10" value="Volksversammlung" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="600" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-11" value="Gerichtshöfe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-12" value="Archonten" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-13" value="Areopag" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-14" value="" style="endArrow=classic;html=1;fontFamily=cardo;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aebSaCIA7CeMU3WzUP2l-12" target="aebSaCIA7CeMU3WzUP2l-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="170" as="sourcePoint"/>
+            <mxPoint x="250" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-18" value="" style="endArrow=classic;html=1;fontFamily=cardo;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aebSaCIA7CeMU3WzUP2l-10" target="aebSaCIA7CeMU3WzUP2l-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="230" as="sourcePoint"/>
+            <mxPoint x="240" y="200" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-20" value="&lt;div&gt;Wahl&lt;/div&gt;&lt;div&gt;(aus der Klass 1)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-23" value="hohe Beamte" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-24" value="&lt;div&gt;Wahl (aus den &lt;br&gt;&lt;/div&gt;&lt;div&gt;Klassen 1 und 1)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-25" value="Rat der 400 (?)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="120" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
