@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-22T12:00:23.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="XIiLl4qVUvUvttZlc_Lf" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-23T07:02:49.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="zAeJaAqp85E5sqksyHnd" version="12.5.5" type="github">
   <diagram id="fYNWbl5dEz6fdRQuFGcw" name="Page-1">
-    <mxGraphModel dx="1310" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="cardo^https://fonts.googleapis.com/css?family=cardo">
+    <mxGraphModel dx="542" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="cardo^https://fonts.googleapis.com/css?family=cardo">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -129,9 +129,6 @@
         <mxCell id="aebSaCIA7CeMU3WzUP2l-59" value="&lt;div&gt;Kriterium:&lt;/div&gt;&lt;div&gt;Zensus&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=cardo;" vertex="1" parent="1">
           <mxGeometry x="670" y="420" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="aebSaCIA7CeMU3WzUP2l-62" value="&lt;div align=&quot;left&quot;&gt;Wahl&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(aus den&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Klassen 1–3)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=cardo;" vertex="1" parent="1">
-          <mxGeometry x="760" y="510" width="50" height="20" as="geometry"/>
-        </mxCell>
         <mxCell id="aebSaCIA7CeMU3WzUP2l-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Volksversammlung&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=cardo;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="600" height="80" as="geometry"/>
         </mxCell>
@@ -212,6 +209,11 @@
         </mxCell>
         <mxCell id="aebSaCIA7CeMU3WzUP2l-80" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Verfassung des Solon&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=cardo;" vertex="1" parent="1">
           <mxGeometry x="350" y="43.33000000000004" width="450" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="aebSaCIA7CeMU3WzUP2l-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;strokeWidth=2;fontFamily=cardo;endArrow=none;endFill=0;" edge="1" parent="1" source="aebSaCIA7CeMU3WzUP2l-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480.75862068965523" y="640.3103448275863" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
