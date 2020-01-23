@@ -1,0 +1,52 @@
+<mxfile host="www.draw.io" modified="2020-01-23T07:06:54.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:72.0) Gecko/20100101 Firefox/72.0" etag="Wt4afoaPk7GVR-axZ-4h" version="12.5.6" type="github">
+  <diagram id="HMeMsn9xWUXuPYdPYHId" name="Page-1">
+    <mxGraphModel dx="786" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="cardo^https://fonts.googleapis.com/css?family=cardo">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-2" value="&lt;div&gt;&lt;b&gt;THE SOUL&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;AND&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;THE DEAD&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;fontFamily=cardo;fontSize=14;opacity=25;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="353" y="160" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-3" value="&lt;div&gt;&lt;b&gt;THE LIVING&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;AND &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;THE MOURNERS&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=cardo;fontSize=14;opacity=25;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="110" y="490" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-4" value="&lt;div&gt;&lt;b&gt;THE CORPSE AND &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;THE BURIAL&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=cardo;fontSize=14;opacity=25;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="580" y="490" width="130" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-8" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=cardo;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" target="-42Hx4wrxpQlBZaeUtf4-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="520" as="sourcePoint"/>
+            <mxPoint x="160" y="570" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-10" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=cardo;fontSize=14;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" source="-42Hx4wrxpQlBZaeUtf4-3" target="-42Hx4wrxpQlBZaeUtf4-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="460" as="sourcePoint"/>
+            <mxPoint x="389.20137" y="225.31000000000006" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-11" value="" style="endArrow=classic;startArrow=classic;html=1;fontFamily=cardo;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="-42Hx4wrxpQlBZaeUtf4-4" target="-42Hx4wrxpQlBZaeUtf4-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="380" as="sourcePoint"/>
+            <mxPoint x="600" y="330" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-14" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;Explanation 1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Scale of rites;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Expression of &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;the social order.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#FFFFFF;fontFamily=cardo;fontSize=14;opacity=25;align=center;" parent="1" vertex="1">
+          <mxGeometry x="318" y="490" width="190" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-15" value="&lt;div&gt;Explanation 2&lt;/div&gt;&lt;div&gt;Eschatology; metaphorical&lt;/div&gt;&lt;div&gt;relationship of body and &lt;br&gt;&lt;/div&gt;&lt;div&gt;soul; form of rites.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#FFFFFF;fontFamily=cardo;fontSize=14;opacity=25;align=center;" parent="1" vertex="1">
+          <mxGeometry x="473" y="330" width="190" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-17" value="&lt;div&gt;Explanation 3&lt;/div&gt;&lt;div&gt;Involvement of the living and&lt;/div&gt;&lt;div&gt;the dead; gradual extinction&lt;/div&gt;&lt;div&gt;of the social person.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#FFFFFF;fontFamily=cardo;fontSize=14;opacity=25;align=center;" parent="1" vertex="1">
+          <mxGeometry x="163" y="330" width="190" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-18" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Huntington, R. / Metcalf, P., Celebrations of Death. The Anthropology of Mortuary Ritual, Cambridge 1979, 66.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontFamily=cardo;fontSize=14;opacity=25;" parent="1" vertex="1">
+          <mxGeometry x="73.33" y="573.33" width="680" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="-42Hx4wrxpQlBZaeUtf4-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Schema nach Hertz (1960)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontFamily=cardo;fontSize=14;opacity=25;" parent="1" vertex="1">
+          <mxGeometry x="309.33" y="90" width="206.67" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
