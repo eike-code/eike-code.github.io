@@ -2,7 +2,7 @@
 // https://thecodingtrain.com/CodingChallenges/074-clock.html
 
 function setup() {
-  createCanvas(360, 360);
+  createCanvas(384, 384);
   angleMode(DEGREES);
 }
 
