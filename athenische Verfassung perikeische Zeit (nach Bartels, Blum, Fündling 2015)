@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T09:58:00.013Z" agent="5.0 (Macintosh)" etag="pfnoRJt1xtZkjNRQmjA5" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T10:00:49.462Z" agent="5.0 (Macintosh)" etag="QfRwy6cBOlXKjQhLgCmO" version="13.6.5" type="github">
   <diagram id="xjA7hu9EYdA7oyigPx56" name="Page-1">
     <mxGraphModel dx="655" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="HWFjpwWZOGTnapUzzlfn-23" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;10&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Strategen&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWFjpwWZOGTnapUzzlfn-24" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;9&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;Archonten&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-24" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;9&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;Archonten&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="540" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HWFjpwWZOGTnapUzzlfn-25" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="HWFjpwWZOGTnapUzzlfn-34" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;Areopag&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;(nur Blut-&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;gerichtsbarkeit)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="680" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-35" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;werden Mitglieder&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;auf Lebenszeit&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=left;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=19.17;dx=43;notch=0;arrowHead=75;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;direction=south;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="670" y="50" width="130" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
