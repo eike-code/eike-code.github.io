@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T10:00:49.462Z" agent="5.0 (Macintosh)" etag="QfRwy6cBOlXKjQhLgCmO" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T10:01:55.838Z" agent="5.0 (Macintosh)" etag="35UYoaTb8Cay6SNWSSV4" version="13.6.5" type="github">
   <diagram id="xjA7hu9EYdA7oyigPx56" name="Page-1">
-    <mxGraphModel dx="655" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="69" y="490" width="690" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HWFjpwWZOGTnapUzzlfn-2" value="&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Die athenische Verfassung zur Zeit des Perikles&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="239" y="20" width="350" height="20" as="geometry" />
+          <mxGeometry x="239" y="10" width="350" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HWFjpwWZOGTnapUzzlfn-3" value="&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;athenische Bürger ab 18 Jahren&lt;/b&gt; (in 10 Phylen)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="760" height="40" as="geometry" />
@@ -16,10 +16,10 @@
         <mxCell id="HWFjpwWZOGTnapUzzlfn-4" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Prytanie&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;(Geschäftsführender Ausschuss)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWFjpwWZOGTnapUzzlfn-5" value="&lt;div&gt;Je 50 aus einer Phyle&lt;/div&gt;&lt;div&gt;bilden für je 35–36 Tage&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-5" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;Je 50 aus einer Phyle&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;bilden für je 35–36 Tage&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HWFjpwWZOGTnapUzzlfn-6" value="&lt;b&gt;Rat der 500&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-6" value="&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Rat der 500&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="210" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HWFjpwWZOGTnapUzzlfn-7" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;erlosen&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;50 Bürger&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;über 30 Jahren&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;aus jeder Phyle&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;für 1 Jahr&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
