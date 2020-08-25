@@ -1,14 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T08:24:18.627Z" agent="5.0 (Macintosh)" etag="-zYnyxTcDh8AEE5mPyM8" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T08:28:02.426Z" agent="5.0 (Macintosh)" etag="ls0D7T5mKsyeqoGxRkZM" version="13.6.5" type="github">
   <diagram id="d8SVLvsX2-q4Hxu7x5C6" name="Page-1">
     <mxGraphModel dx="925" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-GycI77kyhmykR2hynzG-1" value="&lt;div&gt;nach J. Bartels, H. Blum, J. Fündling, Die Antike. Grundzüge der griechischen und römischen Geschichte, Konstanz 2015, 229.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="68" y="420" width="690" height="20" as="geometry" />
+          <mxGeometry x="68" y="480" width="690" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-GycI77kyhmykR2hynzG-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Cardo&quot;&gt;&lt;b&gt;Das „Akzeptanzsystem“&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Cardo&quot;&gt;&lt;b&gt;(Egon Flaig)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="274" y="30" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-GycI77kyhmykR2hynzG-3" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Cardo&quot;&gt;&lt;b&gt;Senat&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-GycI77kyhmykR2hynzG-4" value="&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Princeps&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="240" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-GycI77kyhmykR2hynzG-5" value="Plebs (in Rom)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-GycI77kyhmykR2hynzG-6" value="Armee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="420" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
