@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T09:48:02.305Z" agent="5.0 (Macintosh)" etag="SH_NX6NSzvyqh3JEV6g8" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T09:50:04.169Z" agent="5.0 (Macintosh)" etag="bvebiA8fIa_GDnFjiBYG" version="13.6.5" type="github">
   <diagram id="xjA7hu9EYdA7oyigPx56" name="Page-1">
-    <mxGraphModel dx="314" dy="172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="655" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HWFjpwWZOGTnapUzzlfn-8" value="" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="290" as="sourcePoint" />
-            <mxPoint x="80" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HWFjpwWZOGTnapUzzlfn-1" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;nach J. Bartels, H. Blum, J. Fündling, Die Antike. Grundzüge der griechischen und römischen Geschichte, Konstanz 2015, 94.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
           <mxGeometry x="69" y="490" width="690" height="20" as="geometry" />
         </mxCell>
@@ -31,12 +25,6 @@
         <mxCell id="HWFjpwWZOGTnapUzzlfn-7" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;erlosen&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;50 Bürger&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;über 30 Jahren&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;aus jeder Phyle&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;für 1 Jahr&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="HWFjpwWZOGTnapUzzlfn-12" value="" style="endArrow=none;html=1;strokeColor=#6c8ebf;strokeWidth=2;entryX=0.053;entryY=-0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HWFjpwWZOGTnapUzzlfn-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="370" as="sourcePoint" />
-            <mxPoint x="80" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HWFjpwWZOGTnapUzzlfn-13" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Gesetze,&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Kriegserklärungen,&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Friedensschlüsse&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;etc.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=left;fillColor=#82B366;gradientColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="130" y="280" width="110" height="90" as="geometry" />
         </mxCell>
@@ -51,6 +39,45 @@
             <mxPoint x="139.8" y="140" as="sourcePoint" />
             <mxPoint x="139.8" y="110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-16" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;erlosen&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;50 Bürger&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;über 30 Jahren&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;aus jeder Phyle&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;für 1 Jahr&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-8" value="" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="HWFjpwWZOGTnapUzzlfn-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="30" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-12" value="" style="endArrow=none;html=1;strokeColor=#6c8ebf;strokeWidth=2;entryX=0.053;entryY=-0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HWFjpwWZOGTnapUzzlfn-17" target="HWFjpwWZOGTnapUzzlfn-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="110" as="sourcePoint" />
+            <mxPoint y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="260" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-22" value="" style="group" vertex="1" connectable="0" parent="HWFjpwWZOGTnapUzzlfn-18">
+          <mxGeometry x="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-19" value="" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="HWFjpwWZOGTnapUzzlfn-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="30" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-20" value="" style="endArrow=none;html=1;strokeColor=#6c8ebf;strokeWidth=2;entryX=0.053;entryY=-0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HWFjpwWZOGTnapUzzlfn-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="110" as="sourcePoint" />
+            <mxPoint y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWFjpwWZOGTnapUzzlfn-21" value="&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;Volksgericht&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
