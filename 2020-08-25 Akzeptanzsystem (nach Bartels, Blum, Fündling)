@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T08:37:32.881Z" agent="5.0 (Macintosh)" etag="EeGnkzAtTp1keS13IUAe" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T09:15:45.191Z" agent="5.0 (Macintosh)" etag="E2sYIM2LYUzbO4SoojBr" version="13.6.5" type="github">
   <diagram id="d8SVLvsX2-q4Hxu7x5C6" name="Page-1">
     <mxGraphModel dx="655" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-GycI77kyhmykR2hynzG-1" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;nach J. Bartels, H. Blum, J. Fündling, Die Antike. Grundzüge der griechischen und römischen Geschichte, Konstanz 2015, 229.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-1" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;nach J. Bartels, H. Blum, J. Fündling, Die Antike. Grundzüge der griechischen und römischen Geschichte, Konstanz 2015, 229.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="69" y="390" width="690" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Cardo&quot;&gt;&lt;b&gt;Das „Akzeptanzsystem“&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Cardo&quot;&gt;&lt;b&gt;(Egon Flaig)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Cardo&quot;&gt;&lt;b&gt;Das „Akzeptanzsystem“&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Cardo&quot;&gt;&lt;b&gt;(Egon Flaig)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="274" y="30" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-3" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Cardo&quot;&gt;&lt;b&gt;Senat&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-3" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Cardo&quot;&gt;&lt;b&gt;Senat&lt;/b&gt;&lt;/font&gt;" style="rounded=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="353" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-4" value="&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Princeps&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-4" value="&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Princeps&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="234" y="200" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-5" value="&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Plebs (in Rom)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-5" value="&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Plebs (in Rom)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="473" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-6" value="&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Armee&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-6" value="&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Armee&lt;/b&gt;&lt;/font&gt;" style="rounded=1;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="233" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-7" value="&lt;div align=&quot;right&quot;&gt;&lt;font&gt;Privilegien, Ämter,&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;font&gt;Geschenke,&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;font&gt;Rechtsbekundungen&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-7" value="&lt;div align=&quot;right&quot;&gt;&lt;font&gt;Privilegien, Ämter,&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;font&gt;Geschenke,&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;right&quot;&gt;&lt;font&gt;Rechtsbekundungen&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
           <mxGeometry x="250" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-8" value="&lt;div&gt;Anerkennung, Vergabe von &lt;br&gt;&lt;/div&gt;&lt;div&gt;Kaiserkompetenzen, regelmäßige&lt;/div&gt;&lt;div&gt;Zustimmung zum &lt;i&gt;civilis princeps&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-8" value="&lt;div&gt;Anerkennung, Vergabe von &lt;br&gt;&lt;/div&gt;&lt;div&gt;Kaiserkompetenzen, regelmäßige&lt;/div&gt;&lt;div&gt;Zustimmung zum &lt;i&gt;civilis princeps&lt;br&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-GycI77kyhmykR2hynzG-9" value="" style="endArrow=classic;html=1;fontFamily=Cardo;strokeWidth=2;strokeColor=#6c8ebf;" edge="1" parent="1">
@@ -40,16 +40,16 @@
             <mxPoint x="443" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-11" value="&lt;div&gt;Ausrufung &lt;br&gt;&lt;/div&gt;&lt;div&gt;zum &lt;i&gt;imperator&lt;/i&gt;, exklusive&lt;/div&gt;&lt;div&gt; Loyalität&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-11" value="&lt;div&gt;Ausrufung &lt;br&gt;&lt;/div&gt;&lt;div&gt;zum &lt;i&gt;imperator&lt;/i&gt;, exklusive&lt;/div&gt;&lt;div&gt; Loyalität&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-12" value="&lt;div&gt;Existenz-&lt;/div&gt;&lt;div&gt;sicherung,&lt;/div&gt;&lt;div&gt;Spiele,&lt;/div&gt;&lt;div&gt;Schenkungen&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-12" value="&lt;div&gt;Existenz-&lt;/div&gt;&lt;div&gt;sicherung,&lt;/div&gt;&lt;div&gt;Spiele,&lt;/div&gt;&lt;div&gt;Schenkungen&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
           <mxGeometry x="390" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-13" value="&lt;div&gt;Zustimmungs-&lt;/div&gt;&lt;div&gt;und Zufrieden-&lt;/div&gt;&lt;div&gt;heitsgesten&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-13" value="&lt;div&gt;Zustimmungs-&lt;/div&gt;&lt;div&gt;und Zufrieden-&lt;/div&gt;&lt;div&gt;heitsgesten&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
           <mxGeometry x="554" y="251" width="106" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-GycI77kyhmykR2hynzG-14" value="&lt;div&gt;Fürsorge,&lt;/div&gt;&lt;div&gt;Donative,&lt;/div&gt;&lt;div&gt;Privilegien&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
+        <mxCell id="-GycI77kyhmykR2hynzG-14" value="&lt;div&gt;Fürsorge,&lt;/div&gt;&lt;div&gt;Donative,&lt;/div&gt;&lt;div&gt;Privilegien&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="106" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-GycI77kyhmykR2hynzG-15" value="" style="endArrow=classic;html=1;fontFamily=Cardo;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#6c8ebf;" edge="1" parent="1">
