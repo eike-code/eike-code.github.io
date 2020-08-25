@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T07:30:50.263Z" agent="5.0 (Macintosh)" etag="4QmlEGRazd0i6zjWtIgW" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T07:40:29.193Z" agent="5.0 (Macintosh)" etag="tHmY6TVNbioYOEyuvwAz" version="13.6.5" type="github">
   <diagram id="H6hv9SiHKzZqjlDdeg75" name="Page-1">
-    <mxGraphModel dx="925" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2620" dy="1430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="594.66" y="170" as="sourcePoint" />
+            <mxPoint x="594.66" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-9" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735" y="290" as="sourcePoint" />
+            <mxPoint x="735" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="lW4gXM_ckCu2pagRWVlF-2" value="&lt;div&gt;nach J. Bartels, H. Blum, J. Fündling, Die Antike. Grundzüge der griechischen und römischen Geschichte, Konstanz 2015, 69.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Cardo;" vertex="1" parent="1">
           <mxGeometry x="78" y="380" width="670" height="20" as="geometry" />
         </mxCell>
@@ -13,7 +25,7 @@
         <mxCell id="lW4gXM_ckCu2pagRWVlF-4" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;5 Ephoren&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;(Spartiaten über 30 Jahre)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;(Verwaltung der Staatskasse, &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;Truppenaushebung,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;weitgehende Aufsichts- und Strafkompetenz&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="50" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="lW4gXM_ckCu2pagRWVlF-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-5" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;Apella&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;(Männliche Spartiaten über 20 Jahre)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="300" width="760" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lW4gXM_ckCu2pagRWVlF-6" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;wählen &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;durch Geschrei nach Lautstärke für 1 Jahr&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -21,6 +33,66 @@
         </mxCell>
         <mxCell id="lW4gXM_ckCu2pagRWVlF-7" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;berufen ein&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;und leiten&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="200" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-10" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lW4gXM_ckCu2pagRWVlF-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="180" as="sourcePoint" />
+            <mxPoint x="430" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-11" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;Gerusia&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;(u.a. Richterfunktionen)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104.29" y="289.9999999999999" as="sourcePoint" />
+            <mxPoint x="104.29" y="169.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-13" value="&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Gesetze,&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;b&gt;Kriegserklärungen,&lt;br&gt;Friedensbeschlüsse etc.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-14" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;wählen &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;durch Geschrei nach Lautstärke für 1 Jahr&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="290" as="sourcePoint" />
+            <mxPoint x="250" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="170" as="sourcePoint" />
+            <mxPoint x="250" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-18" value="&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;König&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-19" value="&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;König&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="110" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-20" value="&lt;font face=&quot;Cardo&quot;&gt;28 Spartiaten über 60 Jahre&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-21" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="lW4gXM_ckCu2pagRWVlF-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="170" as="sourcePoint" />
+            <mxPoint x="410" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-22" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="lW4gXM_ckCu2pagRWVlF-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289" y="170" as="sourcePoint" />
+            <mxPoint x="410" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lW4gXM_ckCu2pagRWVlF-23" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="170" as="sourcePoint" />
+            <mxPoint x="290" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
