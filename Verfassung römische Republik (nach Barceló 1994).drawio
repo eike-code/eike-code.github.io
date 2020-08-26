@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T07:33:02.545Z" agent="5.0 (Macintosh)" version="13.6.5" etag="KV8ODFWwVKWK7j0xvtP-" type="github"><diagram id="S4D-rrTDx4ZobB5-8hk_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-26T07:40:59.229Z" agent="5.0 (Macintosh)" etag="dTV3vK9zBqcAdpK93uoO" version="13.6.5" type="github">
+  <diagram id="S4D-rrTDx4ZobB5-8hk_" name="Page-1">
+    <mxGraphModel dx="786" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="riDD9OYprhMl0y7aIe9t-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot; face=&quot;Cardo&quot;&gt;Die Verfassung der römischen Republik&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="50" width="330" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
