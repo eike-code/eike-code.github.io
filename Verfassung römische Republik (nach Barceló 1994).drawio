@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T08:24:20.444Z" agent="5.0 (Macintosh)" etag="3_anif0VFGByNK48R27g" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T08:36:10.679Z" agent="5.0 (Macintosh)" etag="aq1ewBoEENvzbYjTuuOp" version="13.6.5" type="github">
   <diagram id="S4D-rrTDx4ZobB5-8hk_" name="Page-1">
     <mxGraphModel dx="786" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="riDD9OYprhMl0y7aIe9t-5" value="&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;Volksversammlung&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;Populus Romanus&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="354" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="riDD9OYprhMl0y7aIe9t-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="riDD9OYprhMl0y7aIe9t-8" target="riDD9OYprhMl0y7aIe9t-2">
+        <mxCell id="riDD9OYprhMl0y7aIe9t-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;startArrow=none;startFill=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="riDD9OYprhMl0y7aIe9t-8" target="riDD9OYprhMl0y7aIe9t-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="riDD9OYprhMl0y7aIe9t-10" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;Veto&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;beantragt&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="riDD9OYprhMl0y7aIe9t-9">
@@ -97,7 +97,7 @@
         <mxCell id="riDD9OYprhMl0y7aIe9t-21" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="riDD9OYprhMl0y7aIe9t-38">
           <mxGeometry width="120" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="riDD9OYprhMl0y7aIe9t-22" value="Magistrate" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="riDD9OYprhMl0y7aIe9t-38">
+        <mxCell id="riDD9OYprhMl0y7aIe9t-22" value="Magistrate:" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="riDD9OYprhMl0y7aIe9t-38">
           <mxGeometry x="10" y="5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="riDD9OYprhMl0y7aIe9t-23" value="&lt;b&gt;Consuln&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="riDD9OYprhMl0y7aIe9t-38">
