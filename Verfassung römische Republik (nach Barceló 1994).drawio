@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T08:36:10.679Z" agent="5.0 (Macintosh)" etag="aq1ewBoEENvzbYjTuuOp" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T10:27:27.730Z" agent="5.0 (Macintosh)" etag="hRKDELQYEKtGov-dDH-O" version="13.6.5" type="github">
   <diagram id="S4D-rrTDx4ZobB5-8hk_" name="Page-1">
-    <mxGraphModel dx="786" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,16 +64,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="riDD9OYprhMl0y7aIe9t-8" value="&lt;b&gt;&lt;font face=&quot;Cardo&quot;&gt;Volkstribunen&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;gradientColor=#DAE8FC;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="riDD9OYprhMl0y7aIe9t-12" value="&lt;div&gt;&lt;font face=&quot;Cardo&quot;&gt;Armeen&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="riDD9OYprhMl0y7aIe9t-13" value="&lt;font face=&quot;Cardo&quot;&gt;Finanzen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="riDD9OYprhMl0y7aIe9t-16" value="&lt;font face=&quot;Cardo&quot;&gt;Provinzen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="riDD9OYprhMl0y7aIe9t-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#b85450;strokeWidth=2;fillColor=#f8cecc;" edge="1" parent="1" source="riDD9OYprhMl0y7aIe9t-21" target="riDD9OYprhMl0y7aIe9t-2">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="riDD9OYprhMl0y7aIe9t-38" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="245" width="120" height="210" as="geometry" />
+          <mxGeometry x="140" y="245" width="120" height="210" as="geometry" />
         </mxCell>
         <mxCell id="riDD9OYprhMl0y7aIe9t-21" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="riDD9OYprhMl0y7aIe9t-38">
           <mxGeometry width="120" height="210" as="geometry" />
