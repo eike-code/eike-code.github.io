@@ -15,14 +15,7 @@ function draw() {
   stroke(0, 0, 0);
   ellipse(0, 0, height*0.75, width*0.75);
   stroke(0, 0, 255);
-  ////12
-  //line(0, -height*0.375, 0, -height*0.4125);
-  ////3
-  //line(height*0.375, 0, height*0.4125, 0);
-  ////6
-  //line(0, height*0.375, 0, height*0.4215)
-  ////9
-  //line(-height*0.375, 0, -height*0.4125, 0)
+ 
   rotate(-90);
   
   
@@ -72,40 +65,11 @@ function draw() {
 
   stroke(255);
   point(0, 0);
-
-  //push();
-  //rotate(30);
-  //strokeWeight(hw);
-  //stroke(255, 0, 255);
-  ////12
-  //line(0, -height*0.375, 0, -height*0.4125);
-  ////3
-  //line(height*0.375, 0, height*0.4125, 0);
-  ////6
-  //line(0, height*0.375, 0, height*0.4215)
-  ////9
-  //line(-height*0.375, 0, -height*0.4125, 0)
-  //rotate(30);
-  //strokeWeight(hw);
-  //stroke(255, 0, 255);
-  ////12
-  //line(0, -height*0.375, 0, -height*0.4125);
-  ////3
-  //line(height*0.375, 0, height*0.4125, 0);
-  ////6
-  //line(0, height*0.375, 0, height*0.4215)
-  ////9
-  //line(-height*0.375, 0, -height*0.4125, 0)
-  //pop();
   
   rotate(90)
   strokeWeight(hw);
   stroke(0, 0, 0);
   textAlign(CENTER);
-  text(nf(hr,2) + ":" + nf(mn,2) + ":" + nf(sc,2) + " Uhr", 0, height*0.1);
-  text(nf(d,2) + "." + nf(m,2) + "." + "\n" + y, 0, height*0.45);
-  
-  //fill(255, 255, 255);
-  //noStroke();
-  //text(nf(hr,2) + ':' + mn + ':' + sc, 0, height*9/20);
+  text(nf(hr, 2) + ":" + nf(mn, 2) + ":" + nf(sc, 2) + " Uhr", 0, height*0.1);
+  text(nf(d, 2) + "." + nf(m, 2) + "." + "\n" + y, 0, height*0.45);
 }
