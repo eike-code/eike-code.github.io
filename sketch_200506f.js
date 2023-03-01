@@ -102,7 +102,7 @@ function draw() {
   strokeWeight(hw);
   stroke(0, 0, 0);
   textAlign(CENTER);
-  text(hr + ":" + mn + ":" + sc + " Uhr", 0, height*0.1);
+  text(nf(hr,2) + ":" + nf(mn,2) + ":" + nf(sc,2) + " Uhr", 0, height*0.1);
   text(d + "." + m + "." + "\n" + y, 0, height*0.45);
   
   //fill(255, 255, 255);
