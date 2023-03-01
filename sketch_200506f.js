@@ -103,9 +103,9 @@ function draw() {
   stroke(0, 0, 0);
   textAlign(CENTER);
   text(nf(hr,2) + ":" + nf(mn,2) + ":" + nf(sc,2) + " Uhr", 0, height*0.1);
-  text(d + "." + m + "." + "\n" + y, 0, height*0.45);
+  text(nf(d,2) + "." + nf(m,2) + "." + "\n" + y, 0, height*0.45);
   
   //fill(255, 255, 255);
   //noStroke();
-  //text(hr + ':' + mn + ':' + sc, 0, height*9/20);
+  //text(nf(hr,2) + ':' + mn + ':' + sc, 0, height*9/20);
 }
