@@ -13,7 +13,8 @@ function draw() {
   strokeWeight(hw*4);
   noFill();
   stroke(0, 0, 0);
-  ellipse(0, 0, height*0.75, width*0.75);
+//  ellipse(0, 0, height*0.75, width*0.75);
+  ellipse(0, 0, height*0.8, width*0.8);
   stroke(0, 0, 255);
  
   rotate(-90);
@@ -25,21 +26,23 @@ function draw() {
   let m = month();
   let y = year();
 
-  strokeWeight(hw*4)
-  stroke(0, 0, 0);
-  let hourAngle = map(hr % 12, 0, 12, 0, 360);
-  arc(0, 0, height*0.6, height*0.6, 0, hourAngle);
-
-  strokeWeight(hw*2)
-  stroke(0,154,68);
-  let minuteAngle = map(mn, 0, 60, 0, 360);
-  arc(0, 0, height*0.65, height*0.65, 0, minuteAngle);
-  
   strokeWeight(hw);
   stroke(190,58,52);
   //noFill();
   let secondAngle = map(sc, 0, 60, 0, 360);
-  arc(0, 0, height*0.7, height*0.7, 0, secondAngle);
+//  arc(0, 0, height*0.7, height*0.7, 0, secondAngle);
+  arc(0, 0, height*0.75, height*0.75, 0, secondAngle);
+  
+  strokeWeight(hw*2)
+  stroke(0,154,68);
+  let minuteAngle = map(mn, 0, 60, 0, 360);
+//  arc(0, 0, height*0.65, height*0.65, 0, minuteAngle);
+  arc(0, 0, height*0.66, height*0.66, 0, minuteAngle);
+  
+  strokeWeight(hw*4)
+  stroke(0, 0, 0);
+  let hourAngle = map(hr % 12, 0, 12, 0, 360);
+  arc(0, 0, height*0.6, height*0.6, 0, hourAngle);
 
   push();
   rotate(hourAngle);
