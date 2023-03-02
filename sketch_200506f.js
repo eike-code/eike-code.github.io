@@ -26,35 +26,21 @@ function draw() {
   let m = month();
   let y = year();
 
-  strokeWeight(hw);
-  stroke(255, 0, 0);
-  //noFill();
-  let secondAngle = map(sc, 0, 60, 0, 360);
-  arc(0, 0, height*0.7, height*0.7, 0, secondAngle);
-
-  strokeWeight(hw*2)
-  stroke(0, 255, 0);
-  let minuteAngle = map(mn, 0, 60, 0, 360);
-  arc(0, 0, height*0.65, height*0.65, 0, minuteAngle);
-
   strokeWeight(hw*4)
   stroke(0, 0, 0);
   let hourAngle = map(hr % 12, 0, 12, 0, 360);
   arc(0, 0, height*0.6, height*0.6, 0, hourAngle);
 
-  push();
-  rotate(secondAngle);
-  strokeWeight(hw);
-  stroke(255, 0, 0);
-  line(0, 0, height/3, 0);
-  pop();
-
-  push();
-  rotate(minuteAngle);
   strokeWeight(hw*2)
   stroke(0, 255, 0);
-  line(0, 0, height/4, 0);
-  pop();
+  let minuteAngle = map(mn, 0, 60, 0, 360);
+  arc(0, 0, height*0.65, height*0.65, 0, minuteAngle);
+  
+  strokeWeight(hw);
+  stroke(255, 0, 0);
+  //noFill();
+  let secondAngle = map(sc, 0, 60, 0, 360);
+  arc(0, 0, height*0.7, height*0.7, 0, secondAngle);
 
   push();
   rotate(hourAngle);
@@ -63,6 +49,20 @@ function draw() {
   line(0, 0, height/5, 0);
   pop();
 
+  push();
+  rotate(minuteAngle);
+  strokeWeight(hw*2)
+  stroke(0, 255, 0);
+  line(0, 0, height/4, 0);
+  pop();
+  
+  push();
+  rotate(secondAngle);
+  strokeWeight(hw);
+  stroke(255, 0, 0);
+  line(0, 0, height/3, 0);
+  pop();
+  
   stroke(255);
   point(0, 0);
   
