@@ -18,7 +18,6 @@ function draw() {
  
   rotate(-90);
   
-  
   let hr = hour();
   let mn = minute();
   let sc = second();
@@ -46,21 +45,21 @@ function draw() {
   rotate(hourAngle);
   strokeWeight(hw*4)
   stroke(0, 0, 0);
-  line(0, 0, height/5, 0);
+  line(0, 0, height/6, 0);
   pop();
 
   push();
   rotate(minuteAngle);
   strokeWeight(hw*2)
   stroke(0, 255, 0);
-  line(0, 0, height/4, 0);
+  line(0, 0, height/5, 0);
   pop();
   
   push();
   rotate(secondAngle);
   strokeWeight(hw);
   stroke(255, 0, 0);
-  line(0, 0, height/3, 0);
+  line(0, 0, height/4, 0);
   pop();
   
   stroke(255);
