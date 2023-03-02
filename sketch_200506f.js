@@ -37,12 +37,12 @@ function draw() {
   stroke(0,154,68);
   let minuteAngle = map(mn, 0, 60, 0, 360);
 //  arc(0, 0, height*0.65, height*0.65, 0, minuteAngle);
-  arc(0, 0, height*0.66, height*0.66, 0, minuteAngle);
+  arc(0, 0, height*0.66, height*0.7, 0, minuteAngle);
   
   strokeWeight(hw*4)
   stroke(0, 0, 0);
   let hourAngle = map(hr % 12, 0, 12, 0, 360);
-  arc(0, 0, height*0.6, height*0.6, 0, hourAngle);
+  arc(0, 0, height*0.6, height*0.625, 0, hourAngle);
 
   push();
   rotate(hourAngle);
