@@ -31,12 +31,12 @@ function draw() {
   arc(0, 0, height*0.6, height*0.6, 0, hourAngle);
 
   strokeWeight(hw*2)
-  stroke(0, 255, 0);
+  stroke(0,154,68);
   let minuteAngle = map(mn, 0, 60, 0, 360);
   arc(0, 0, height*0.65, height*0.65, 0, minuteAngle);
   
   strokeWeight(hw);
-  stroke(255, 0, 0);
+  stroke(190,58,52);
   //noFill();
   let secondAngle = map(sc, 0, 60, 0, 360);
   arc(0, 0, height*0.7, height*0.7, 0, secondAngle);
@@ -51,14 +51,14 @@ function draw() {
   push();
   rotate(minuteAngle);
   strokeWeight(hw*2)
-  stroke(0, 255, 0);
+  stroke(0,154,68);
   line(0, 0, height/5, 0);
   pop();
   
   push();
   rotate(secondAngle);
   strokeWeight(hw);
-  stroke(255, 0, 0);
+  stroke(190,58,52);
   line(0, 0, height/4, 0);
   pop();
   
