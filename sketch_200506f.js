@@ -20,7 +20,7 @@
 // Inset time and date 1/9th height above/below centre.
 
 function setup() {
-  createCanvas(360,360);
+  createCanvas(384,384);
   angleMode(DEGREES);
   }
 
