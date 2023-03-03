@@ -1,6 +1,24 @@
 // Daniel Shiffman
 // https://thecodingtrain.com/CodingChallenges/074-clock.html
 
+// Code changed by me [and refactored ;-)]
+
+// Colours of the Watch are taken from the colours of the Kenyan flag, black, red (190,58,52), green (0,154,68) to reference ENDA running gear.
+
+// Stroke weight for seconds is 1, for minutes 2, for hours 4.
+
+// Total diameter 8/9th width/height.
+// Seconds arc at 7/9th width/height.
+// Minute arc at 6/9th width/height.
+// Hour arc at 5/9th width/height.
+
+// Length of 
+// Second hand: 1/4 width/height
+// Minute hand: 1/5 width/height
+// hour hand: 1/6 width/height
+
+// Inset time and date 1/9th height above/below centre.
+
 function setup() {
   createCanvas(384, 384);
   angleMode(DEGREES);
@@ -30,13 +48,11 @@ function draw() {
   stroke(190,58,52);
   //noFill();
   let secondAngle = map(sc, 0, 60, 0, 360);
-//  arc(0, 0, height*0.7, height*0.7, 0, secondAngle);
   arc(0, 0, height*7/9, height*7/9, 0, secondAngle);
   
   strokeWeight(hw*2)
   stroke(0,154,68);
   let minuteAngle = map(mn, 0, 60, 0, 360);
-//  arc(0, 0, height*0.65, height*0.65, 0, minuteAngle);
   arc(0, 0, height*6/9, height*6/9, 0, minuteAngle);
   
   strokeWeight(hw*4)
