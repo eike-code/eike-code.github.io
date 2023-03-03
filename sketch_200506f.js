@@ -41,6 +41,8 @@ function draw() {
   let m = month();
   let y = year();
   
+  strokeWeight(hw);
+  stroke(0, 0, 0);
   textAlign(CENTER);
   text(nf(hr, 2) + ":" + nf(mn, 2) + ":" + nf(sc, 2) + " Uhr", 0, -height*1/9);
   text(nf(d, 2) + "." + nf(m, 2) + "." + "\n" + y, 0, height*1/9);
