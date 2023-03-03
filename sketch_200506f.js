@@ -22,17 +22,18 @@
 function setup() {
   createCanvas(384, 384);
   angleMode(DEGREES);
+  const hw = 1;
 }
 
 function draw() {
-  const hw = 1;
   background(255);
   translate(height/2, width/2);
+// draw outer circle
   strokeWeight(hw*4);
   noFill();
   stroke(0, 0, 0);
   ellipse(0, 0, height*8/9, width*8/9);
-  stroke(0, 0, 255);
+//  stroke(0, 0, 255);
  
   let hr = hour();
   let mn = minute();
@@ -41,6 +42,7 @@ function draw() {
   let m = month();
   let y = year();
   
+// Write time, date as text
   strokeWeight(hw);
   stroke(0, 0, 0);
   textAlign(CENTER);
@@ -49,22 +51,26 @@ function draw() {
   
   rotate(-90);
 
+// draw Seconds arc
   strokeWeight(hw);
   stroke(190,58,52);
   //noFill();
   let secondAngle = map(sc, 0, 60, 0, 360);
   arc(0, 0, height*7/9, height*7/9, 0, secondAngle);
   
+// draw Minutes arc
   strokeWeight(hw*2)
   stroke(0,154,68);
   let minuteAngle = map(mn, 0, 60, 0, 360);
   arc(0, 0, height*6/9, height*6/9, 0, minuteAngle);
   
+// draw Hours arc  
   strokeWeight(hw*4)
   stroke(0, 0, 0);
   let hourAngle = map(hr % 12, 0, 12, 0, 360);
   arc(0, 0, height*5/9, height*5/9, 0, hourAngle);
 
+// draw Hour hand  
   push();
   rotate(hourAngle);
   strokeWeight(hw*4)
@@ -72,6 +78,7 @@ function draw() {
   line(0, 0, height/6, 0);
   pop();
 
+// draw Minute hand
   push();
   rotate(minuteAngle);
   strokeWeight(hw*2)
@@ -79,6 +86,7 @@ function draw() {
   line(0, 0, height/5, 0);
   pop();
   
+// draw Second hand
   push();
   rotate(secondAngle);
   strokeWeight(hw);
