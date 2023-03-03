@@ -22,18 +22,19 @@
 function setup() {
   createCanvas(384, 384);
   angleMode(DEGREES);
-  const hw = 1;
-}
+  }
 
 function draw() {
+  const hw = 1;
   background(255);
   translate(height/2, width/2);
-// draw outer circle
+
+  // draw outer circle
   strokeWeight(hw*4);
   noFill();
   stroke(0, 0, 0);
   ellipse(0, 0, height*8/9, width*8/9);
-//  stroke(0, 0, 255);
+
  
   let hr = hour();
   let mn = minute();
@@ -54,7 +55,6 @@ function draw() {
 // draw Seconds arc
   strokeWeight(hw);
   stroke(190,58,52);
-  //noFill();
   let secondAngle = map(sc, 0, 60, 0, 360);
   arc(0, 0, height*7/9, height*7/9, 0, secondAngle);
   
@@ -98,6 +98,4 @@ function draw() {
   point(0, 0);
   strokeWeight(hw);
   stroke(0, 0, 0);
- // rotate(90)
- 
 }
