@@ -34,6 +34,12 @@ function draw() {
   ellipse(0, 0, height*8/9, width*8/9);
   stroke(0, 0, 255);
  
+  strokeWeight(hw);
+  stroke(0, 0, 0);
+  textAlign(CENTER);
+  text(nf(hr, 2) + ":" + nf(mn, 2) + ":" + nf(sc, 2) + " Uhr", 0, -height*1/9);
+  text(nf(d, 2) + "." + nf(m, 2) + "." + "\n" + y, 0, height*1/9);
+  
   rotate(-90);
   
   let hr = hour();
@@ -83,10 +89,6 @@ function draw() {
   stroke(255);
   point(0, 0);
   
-  rotate(90)
-  strokeWeight(hw);
-  stroke(0, 0, 0);
-  textAlign(CENTER);
-  text(nf(hr, 2) + ":" + nf(mn, 2) + ":" + nf(sc, 2) + " Uhr", 0, -height*1/9);
-  text(nf(d, 2) + "." + nf(m, 2) + "." + "\n" + y, 0, height*1/9);
+ // rotate(90)
+ 
 }
