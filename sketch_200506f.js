@@ -20,20 +20,26 @@
 // Inset time and date 1/9th height above/below centre.
 
 function setup() {
-  createCanvas(384, 384);
+  createCanvas(360,360);
   angleMode(DEGREES);
   }
 
 function draw() {
-  const hw = 1;
-  background(255);
-  translate(height/2, width/2);
+  const hw = 2;
 
+//set dim (dimension) to smaller value of width or height in case that canvas is not square
+  let dim = height;
+  if (dim > width)
+    {dim = width};
+  
+  background(255);
+  translate(dim/2, dim/2);
+  
   // draw outer circle
   strokeWeight(hw*4);
   noFill();
   stroke(0, 0, 0);
-  ellipse(0, 0, height*8/9, width*8/9);
+  ellipse(0, 0, dim*8/9, dim*8/9);
 
  
   let hr = hour();
@@ -44,11 +50,11 @@ function draw() {
   let y = year();
   
 // Write time, date as text
-  strokeWeight(hw);
+  strokeWeight(1);
   stroke(0, 0, 0);
   textAlign(CENTER);
-  text(nf(hr, 2) + ":" + nf(mn, 2) + ":" + nf(sc, 2) + " Uhr", 0, -height*1/9);
-  text(nf(d, 2) + "." + nf(m, 2) + "." + "\n" + y, 0, height*1/9);
+  text(nf(hr, 2) + ":" + nf(mn, 2) + ":" + nf(sc, 2) + " Uhr", 0, -dim*1/9);
+  text(nf(d, 2) + "." + nf(m, 2) + "." + "\n" + y, 0, dim*1/9);
   
   rotate(-90);
 
@@ -56,26 +62,26 @@ function draw() {
   strokeWeight(hw);
   stroke(190,58,52);
   let secondAngle = map(sc, 0, 60, 0, 360);
-  arc(0, 0, height*7/9, height*7/9, 0, secondAngle);
+  arc(0, 0, dim*7/9, dim*7/9, 0, secondAngle);
   
 // draw Minutes arc
   strokeWeight(hw*2)
   stroke(0,154,68);
   let minuteAngle = map(mn, 0, 60, 0, 360);
-  arc(0, 0, height*6/9, height*6/9, 0, minuteAngle);
+  arc(0, 0, dim*6/9, dim*6/9, 0, minuteAngle);
   
 // draw Hours arc  
   strokeWeight(hw*4)
   stroke(0, 0, 0);
   let hourAngle = map(hr % 12, 0, 12, 0, 360);
-  arc(0, 0, height*5/9, height*5/9, 0, hourAngle);
+  arc(0, 0, dim*5/9, dim*5/9, 0, hourAngle);
 
 // draw Hour hand  
   push();
   rotate(hourAngle);
   strokeWeight(hw*4)
   stroke(0, 0, 0);
-  line(0, 0, height/6, 0);
+  line(0, 0, dim/6, 0);
   pop();
 
 // draw Minute hand
@@ -83,7 +89,7 @@ function draw() {
   rotate(minuteAngle);
   strokeWeight(hw*2)
   stroke(0,154,68);
-  line(0, 0, height/5, 0);
+  line(0, 0, dim/5, 0);
   pop();
   
 // draw Second hand
@@ -91,7 +97,7 @@ function draw() {
   rotate(secondAngle);
   strokeWeight(hw);
   stroke(190,58,52);
-  line(0, 0, height/4, 0);
+  line(0, 0, dim/4, 0);
   pop();
   
   stroke(255);
