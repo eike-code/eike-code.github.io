@@ -51,7 +51,7 @@ function draw() {
   
 // Write time, date as text
   strokeWeight(1);
-  stroke(0, 0, 0);
+  stroke(51);
   textAlign(CENTER);
   text(nf(hr, 2) + ":" + nf(mn, 2) + ":" + nf(sc, 2) + " Uhr", 0, -dim*1/9);
   text(nf(d, 2) + "." + nf(m, 2) + "." + "\n" + y, 0, dim*1/9);
