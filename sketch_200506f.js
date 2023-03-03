@@ -25,7 +25,7 @@ function setup() {
   }
 
 function draw() {
-  const hw = 2;
+  const hw = 1;
 
 //set dim (dimension) to smaller value of width or height in case that canvas is not square
   let dim = height;
