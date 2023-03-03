@@ -54,7 +54,7 @@ function draw() {
   stroke(51);
   textAlign(CENTER);
   text(nf(hr, 2) + ":" + nf(mn, 2) + ":" + nf(sc, 2) + " Uhr", 0, -dim*1/9);
-  text(nf(d, 2) + "." + nf(m, 2) + "." + "\n" + y, 0, dim*1/9);
+  text(nf(d, 2) + "." + nf(m, 2) + "." + "\n" + nf(y), 0, dim*1/9);
   
   rotate(-90);
 
